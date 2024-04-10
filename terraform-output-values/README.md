@@ -1,4 +1,4 @@
-This is a working example on how to use output in terraform. refer the contetnts in the putputs.tf file.
+This is a working example on how to use output in terraform. refer the contetnts in the outputs.tf file.
 
 There are certain scenarios  where you need to use terraform output for multiple resources using count. To achieve this you do not need to loop inside the terraform output block. See an example below - 
 
